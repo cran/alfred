@@ -1,0 +1,15 @@
+5ce10e751ae703459614b44b3405c59e *DESCRIPTION
+43e9791b3a26b7dd957e5a632b2b1d2c *LICENSE
+6deb4e392f47aba0c5398590e7d3820a *NAMESPACE
+bf18b193d2ac08f0c3873c45e00b371c *NEWS.md
+0cff97159b2239a8e7e6af53b518afa2 *R/get_alfred_series.R
+8a1bca34a6f7e6c4f54ab18e37f707c7 *README.md
+ce0d621a4ba1f19b13b43a431e457e80 *build/vignette.rds
+2e664a359bb69901bcc52af7b370af09 *inst/doc/alfred.R
+01adb294d46cc4cb79f7b4bbaf9920ae *inst/doc/alfred.Rmd
+50436cd2391cf97f5998782cd3f979f1 *inst/doc/alfred.pdf
+6eaed6efebb96c8298fcc6f1f0520fd9 *man/get_alfred_series.Rd
+0c2d4d85cea946946166a35b0761eaf0 *man/get_fred_series.Rd
+fe1b46d772c793ff42edcf27d300ff87 *tests/testthat.R
+5956571f7ebd4f05fbc9e3c4b7288235 *tests/testthat/test_download.R
+01adb294d46cc4cb79f7b4bbaf9920ae *vignettes/alfred.Rmd
