@@ -1,4 +1,6 @@
 ## ---- eval=FALSE---------------------------------------------------------
+#  install.packages("alfred")
+#  # or
 #  install.packages("devtools")
 #  devtools::install_github("onnokleen/alfred")
 
@@ -15,10 +17,10 @@ ggplot(df) +
   geom_line(aes(x = date, y = indpro))
 
 ## ------------------------------------------------------------------------
-df_vintages <- 
+df_vintages <-
   get_alfred_series("GDPC1", "rgdp",
                     observation_start = "2007-05-31",
-                    real_time_start = "2008-05-31", real_time_end = "2009-03-30")
+                    realtime_start = "2008-05-31", realtime_end = "2009-03-30")
 df_vintages
 
 ## ---- fig.show = "hold", fig.width = 6-----------------------------------
