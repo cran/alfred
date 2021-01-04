@@ -1,12 +1,12 @@
-05d66cbc95ba364462d369b53ad1dc73 *DESCRIPTION
+948b4aade433b1869d0bf9d7263ea86c *DESCRIPTION
 43e9791b3a26b7dd957e5a632b2b1d2c *LICENSE
 966004680dc0c0a07395501a3fd00449 *NAMESPACE
-0d0cadb04b2dbd45fc5498fe78000e62 *NEWS.md
-19559879df30ced1d132825992786fe8 *R/get_alfred_series.R
+582437e1c8ee8011eb0ee75c741845b6 *NEWS.md
+52aa3122775b18de2b13e961b721348e *R/get_alfred_series.R
 03d15270946c14b4eb8bea90e72bcbe8 *build/vignette.rds
 d1789a3eca9c3f9edd9163bae1541fe2 *inst/doc/alfred.R
 36d1415219647a435a62c2638bb8c117 *inst/doc/alfred.Rmd
-23665adc1be3e2fad85428d0b7231d6e *inst/doc/alfred.html
+c7f80ddb12d4b377d9a2f38385f80b5f *inst/doc/alfred.html
 71f7e003b848d89b0eb13f7c180562f3 *man/get_alfred_series.Rd
 9cb0e556da25f7f75ebf7c40acacea85 *man/get_fred_series.Rd
 7760dbbd0dbef1b6825c7ddceb174c4c *tests/testthat.R
