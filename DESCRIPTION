@@ -1,7 +1,7 @@
 Package: alfred
 Title: Downloading Time Series from ALFRED Database for Various
         Vintages
-Version: 0.1.9
+Version: 0.1.10
 Authors@R: person("Onno", "Kleen", email = "r@onnokleen.de", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-4731-4640"))
 Description: Provides direct access to the ALFRED (<https://alfred.stlouisfed.org>) and FRED (<https://fred.stlouisfed.org>) databases.
     Its functions return tidy data frames for different releases of the specified time series. 
@@ -18,8 +18,8 @@ BugReports: https://github.com/onnokleen/alfred/issues
 Suggests: testthat, knitr, rmarkdown, ggplot2, covr
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2021-01-04 09:34:46 UTC; onnokleen
+Packaged: 2021-01-06 17:36:22 UTC; onnokleen
 Author: Onno Kleen [aut, cre] (<https://orcid.org/0000-0003-4731-4640>)
 Maintainer: Onno Kleen <r@onnokleen.de>
 Repository: CRAN
-Date/Publication: 2021-01-04 11:10:06 UTC
+Date/Publication: 2021-01-07 18:30:03 UTC
