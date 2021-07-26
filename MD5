@@ -1,9 +1,9 @@
-bceb7df41ce09248ab36851157521c64 *DESCRIPTION
+1d666e2b38b244614c31e97ce7b39472 *DESCRIPTION
 43e9791b3a26b7dd957e5a632b2b1d2c *LICENSE
 e943755e150705da844a6d98d90e6c56 *NAMESPACE
-f7e833bbf4ea4473ba4718bdf939739a *NEWS.md
-08d0ec71c0d3b87cc8df2878da80e4b3 *R/get_alfred_series.R
+57ab3d05c26958f226cb12a43dcf76f3 *NEWS.md
+6701655af31d0da0c6368b07d911a82f *R/get_alfred_series.R
 bd639c8de48e127c06c06eeee6812e7d *man/get_alfred_series.Rd
 0e88b2726a75b1bec42a375e65f6aa30 *man/get_fred_series.Rd
 7760dbbd0dbef1b6825c7ddceb174c4c *tests/testthat.R
-e232c17570ce59f467e1154e011545aa *tests/testthat/test_download.R
+6a41346cd1fe816e2a63fe71ea180941 *tests/testthat/test_download.R
